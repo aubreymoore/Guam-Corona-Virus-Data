@@ -5,5 +5,7 @@ a Johns Hopkins GitHub repo. The data were used to generate the following plots.
 
 ![Guam](Guam.png)
 
+[Guam.csv](Guam.csv)
+
 ![Hawaii](Hawaii.png)
 
