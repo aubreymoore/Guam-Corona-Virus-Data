@@ -10,3 +10,27 @@ Data: [Guam.csv](Guam.csv)
 ![Hawaii](Hawaii.png)
 
 Data: [Hawaii.csv](Hawaii.csv)
+
+## Fitting Models to the Data
+
+This repo contains a [Jupyter Notebook](curve-fitting.ipynb) which fits curves to the time series (Guam.csv and Hawaii.csv)
+using the following models.
+
+* linear
+* exponential
+* quadratic
+* logistic
+
+Results are stored as plots in the images folder. Here are the latest plots for the logistic model:
+
+![](Guam-logisit-latest.png)
+
+
+
+
+
+
+
+
+
+
