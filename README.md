@@ -4,8 +4,8 @@ Automatic updates to the data and images in this repo will be made daily.
 
 This repo contains a Jupyter Notebook, [guam-corona-virus-data.ipynb](guam-corona-virus-data.ipynb) which shows how to download Guam corona virus data froma Johns Hopkins GitHub repo. If you are just looking for an up-to-date time series of conirmed cases for Guam or Hawaii, just download [Guam.csv](Guam.csv) or [Hawaii.csv](Hawaii.csv). These files were used to generate these plots of the raw data:
 
-![Guam](Guam.png)
-![Hawaii](Hawaii.png)
+![Guam](images/Guam.png)
+![Hawaii](images/Hawaii.png)
 
 ## Fitting Models to the Data
 
@@ -19,17 +19,17 @@ using the following models.
 
 Results are stored as plots in the images folder. Here are the latest plots for the logistic model:
 
-![](Guam-logistic-latest.png)
-![](Hawaii-logistic-latest.png)
+![](images/Guam-logistic-latest.png)
+![](images/Hawaii-logistic-latest.png)
 
-![](Guam-quadratic-latest.png)
-![](Hawaii-quadratic-latest.png)
+![](images/Guam-quadratic-latest.png)
+![](images/Hawaii-quadratic-latest.png)
 
-![](Guam-exponential-latest.png)
-![](Hawaii-exponential-latest.png)
+![](images/Guam-exponential-latest.png)
+![](images/Hawaii-exponential-latest.png)
 
-![](Guam-linear-latest.png)
-![](Hawaii-linear-latest.png)
+![](images/Guam-linear-latest.png)
+![](images/Hawaii-linear-latest.png)
 
 
 
