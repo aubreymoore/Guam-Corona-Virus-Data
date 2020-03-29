@@ -23,7 +23,7 @@ using the following models.
 
 Results are stored as plots in the images folder. Here are the latest plots for the logistic model:
 
-![](Guam-logisit-latest.png)
+![](Guam-logistic-latest.png)
 
 
 
