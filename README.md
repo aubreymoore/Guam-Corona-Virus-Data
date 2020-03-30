@@ -9,8 +9,7 @@ This repo contains a Jupyter Notebook, [guam-corona-virus-data.ipynb](guam-coron
 
 ## Fitting Models to the Data
 
-This repo contains a Jupyter notebook, [curve-fitting.ipynb](curve-fitting.ipynb), which fits curves to the time series (Guam.csv and Hawaii.csv)
-using the following models.
+This repo contains a Jupyter notebook, [curve-fitting.ipynb](curve-fitting.ipynb), which fits curves to the time series [Guam.csv](Guam.csv) and [Hawaii.csv](Hawaii.csv) using the following models.
 
 * linear
 * exponential
