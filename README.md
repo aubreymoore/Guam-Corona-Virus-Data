@@ -20,30 +20,14 @@ using the following models.
 Results are stored as plots in the images folder. Here are the latest plots for the logistic model:
 
 ![](images/Guam-logistic_model-latest.png)
-
 ![](images/Hawaii-logistic_model-latest.png)
 
 ![](images/Guam-quadratic_model-latest.png)
-
 ![](images/Hawaii-quadratic_model-latest.png)
 
 ![](images/Guam-exponential_model-latest.png)
-
 ![](images/Hawaii-exponential_model-latest.png)
 
 ![](images/Guam-linear_model-latest.png)
-
 ![](images/Hawaii-linear_model-latest.png)
-
-
-
-
-
-
-
-
-
-
-
-
 
