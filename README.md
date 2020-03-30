@@ -22,7 +22,7 @@ Results are stored as plots in the images folder. Here are the latest plots for 
 ![](images/Guam-logistic_model-latest.png)
 ![](images/Hawaii-logistic_model-latest.png)
 
-![](images/Guam_logistic_model_derivative-latest.png)
+![](images/Guam-logistic-model-derivative-latest.png)
 
 ![](images/Guam-quadratic_model-latest.png)
 ![](images/Hawaii-quadratic_model-latest.png)
