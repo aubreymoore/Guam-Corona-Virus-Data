@@ -17,12 +17,13 @@ using the following models.
 * quadratic
 * logistic
 
-Results are stored as plots in the images folder. Here are the latest plots for the logistic model:
+Results are stored as plots in the images folder. Here are the most recent plots:
 
 ![](images/Guam-logistic_model-latest.png)
 ![](images/Hawaii-logistic_model-latest.png)
 
 ![](images/Guam-logistic-model-derivative-latest.png)
+![](images/Hawaii-logistic-model-derivative-latest.png)
 
 ![](images/Guam-quadratic_model-latest.png)
 ![](images/Hawaii-quadratic_model-latest.png)
