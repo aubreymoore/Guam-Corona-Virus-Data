@@ -13,7 +13,6 @@ This repo contains a Jupyter notebook, [curve-fitting.ipynb](curve-fitting.ipynb
 
 * linear
 * exponential
-* quadratic
 * logistic
 
 Results are stored as plots in the images folder. Here are the most recent plots:
@@ -23,9 +22,6 @@ Results are stored as plots in the images folder. Here are the most recent plots
 
 ![](images/Guam-logistic-model-derivative-latest.png)
 ![](images/Hawaii-logistic-model-derivative-latest.png)
-
-![](images/Guam-quadratic_model-latest.png)
-![](images/Hawaii-quadratic_model-latest.png)
 
 ![](images/Guam-exponential_model-latest.png)
 ![](images/Hawaii-exponential_model-latest.png)
