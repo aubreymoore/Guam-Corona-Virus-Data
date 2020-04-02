@@ -1,4 +1,7 @@
-**Guam** | **Date first case confirmed:** 2020-03-15 | **Raw Data:** [Guam.csv](Guam.csv) | **Updated daily at:** 11:15 ChST 
+| Guam | Date first case confirmed | Raw data | Updated daily at| 
+| ---  | --- |---|---|
+|      | : 2020-03-15 :           | [Guam.csv](Guam.csv) | 11:15 ChST |
+
 | **Data source:** Johns Hopkins University | **Note:** Many confirmed cases of US military personnel on Guam are not included in the data. 
 
 ## Fitted Curves
