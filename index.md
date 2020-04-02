@@ -1,7 +1,3 @@
----
-title: New Page
----
-
 | Guam | Date first case confirmed | Raw data | Updated daily at| Data source |
 | ---  | --- |---|---|---|
 ||2020-03-15| [Guam.csv](Guam.csv)|11:15 ChST|[Johns Hopkins University Center for Systems Science and Engineering](https://github.com/CSSEGISandData/COVID-19)|
