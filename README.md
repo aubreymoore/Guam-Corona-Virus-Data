@@ -2,7 +2,7 @@
 
 This repo is intended to facilitate access to Guam CORVID-19 data. 
 
-Note: 
+Note: Many confirmed cases of US military personnel on Guam are not included in the data. 
 
 Data and images in this repo are automatically updated daily at 11:15 AM ChST (UTC+10) and simple models are automatically fitted (See my Medium blog post entitled [Fitting Curves to COVID-19 Data from Guam and Hawaii](https://medium.com/@aubreymoore2013/fitting-curves-to-covid-19-data-from-guam-and-hawaii-4c6c116645c4?source=friends_link&sk=d2cda0c27ed44c6ec7c779a9bbbba00e)).
 
