@@ -1,4 +1,3 @@
-# Caca
 **Raw Data:** [Guam.csv](Guam.csv)
 ## Fitted Curves
 ![](images/Guam-logistic_model-latest.png)
