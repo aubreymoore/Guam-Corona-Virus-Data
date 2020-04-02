@@ -1,6 +1,6 @@
 # Guam-Corona-Virus-Data
 
-This repo is intended to facilitate access to Guam CORVID-19 data. 
+This repo is intended to facilitate access to Guam CORVID-19 data. Please visit the GitHub.io web page at https://aubreymoore.github.io/Guam-Corona-Virus-Data/.
 
 Note: Many confirmed cases of US military personnel on Guam are not included in the data. 
 
