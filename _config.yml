@@ -1,2 +1,2 @@
 theme: jekyll-theme-cayman
-.page-header h1 { margin-top: 0; }
+.page-header { padding: 0; }
