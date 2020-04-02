@@ -10,4 +10,3 @@
 ![](images/Guam-exponential_model-latest.png)
 ![](images/Guam-linear_model-latest.png)
 
-X
