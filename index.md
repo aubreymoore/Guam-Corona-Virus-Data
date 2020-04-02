@@ -1,4 +1,4 @@
-## Raw Data ![Guam.csv](Guam.csv)
+## Raw Data: ![Guam.csv](Guam.csv)
 ![](images/Guam.png)
 
 ## Fitted Curves
