@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 
-#header .page-header.front-page {
+.page-header {
     padding: 0px;
 }
