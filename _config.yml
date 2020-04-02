@@ -1,7 +1,5 @@
 theme: jekyll-theme-cayman
 
-#header .bottom-header.front-page {
-    padding-top: 160px;
-    padding-bottom: 280px;
-    height: 400px;
+#header .page-header.front-page {
+    padding: 0px;
 }
