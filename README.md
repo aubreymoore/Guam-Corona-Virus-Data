@@ -2,7 +2,7 @@
 
 This repo is intended to facilitate access to Guam CORVID-19 data. Please visit the GitHub.io web page at https://aubreymoore.github.io/Guam-Corona-Virus-Data/.
 
-For a nontechnical description of what I am trying to do, please see my Medium blog post entitled [Fitting Curves to COVID-19 Data from Guam and Hawaii](https://medium.com/@aubreymoore2013/fitting-curves-to-covid-19-data-from-guam-and-hawaii-4c6c116645c4?source=friends_link&sk=d2cda0c27ed44c6ec7c779a9bbbba00e)).
+For a nontechnical description of what I am trying to do, please see my Medium blog post entitled [Fitting Curves to COVID-19 Data from Guam and Hawaii](https://medium.com/@aubreymoore2013/fitting-curves-to-covid-19-data-from-guam-and-hawaii-4c6c116645c4?source=friends_link&sk=d2cda0c27ed44c6ec7c779a9bbbba00e).
 
 Data and images in this repo are automatically updated daily at 11:15 AM ChST (UTC+10) and simple models are automatically fitted.
 
