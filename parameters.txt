@@ -1,0 +1,55 @@
+CFR=0.02
+Case fatality rate
+default
+
+D_hospital_lag=5
+Time to hospitalization
+default
+
+D_incbation=5.2
+Length of incubation period
+T_inc
+default
+
+D_infectious=2.9
+Duration patient is infectious
+T_inc
+default
+
+D_recovery_mild=11.1
+Recovery time for mild cases
+default
+
+D_recovery_severe=28.6
+Length of hospital stay
+default
+
+I0=1
+Number of initial infections
+3
+
+InterventionAmt=0.33333333333333337
+Transmission rate (R) after intervention.
+R_t
+0.8
+
+InterventionTime=100
+Day on which intervention starts
+26
+
+P_SEVERE=0.2
+Hospitalization rate
+default
+
+R0=2.2 
+Basic reproduction number (R_0): Measure of contagiousness: the number of secondary infections each infected individual produces.
+R_0
+2.6
+
+Time_to_death=32
+Time from end of incubation to death
+default
+
+logN=15.761420707019587
+Natural log (base e) of the population (N)
+12.1 (N=179,872)
